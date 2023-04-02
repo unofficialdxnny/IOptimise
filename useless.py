@@ -22,3 +22,6 @@ delete_files("C:/Windows/Temp", ".tmp", 1024)
 delete_files("C:/Windows/Temp", ".ses", 1024)
 delete_files("C:/Windows/Temp", ".txt", 1024)
 
+
+## this code is shit lol i put more effort into the other ones that do this + more
+
