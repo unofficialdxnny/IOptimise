@@ -36,7 +36,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(994, 456);
             Name = "Form1";
-            Text = "Form1";
+            Text = "IOptimiZe";
             ResumeLayout(false);
         }
 
