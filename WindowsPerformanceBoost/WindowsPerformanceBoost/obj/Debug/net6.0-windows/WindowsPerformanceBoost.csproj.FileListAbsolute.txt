@@ -1,0 +1,17 @@
+D:\Projects\ICleaner\WindowsPerformanceBoost\WindowsPerformanceBoost\bin\Debug\net6.0-windows\WindowsPerformanceBoost.exe
+D:\Projects\ICleaner\WindowsPerformanceBoost\WindowsPerformanceBoost\bin\Debug\net6.0-windows\WindowsPerformanceBoost.deps.json
+D:\Projects\ICleaner\WindowsPerformanceBoost\WindowsPerformanceBoost\bin\Debug\net6.0-windows\WindowsPerformanceBoost.runtimeconfig.json
+D:\Projects\ICleaner\WindowsPerformanceBoost\WindowsPerformanceBoost\bin\Debug\net6.0-windows\WindowsPerformanceBoost.dll
+D:\Projects\ICleaner\WindowsPerformanceBoost\WindowsPerformanceBoost\bin\Debug\net6.0-windows\WindowsPerformanceBoost.pdb
+D:\Projects\ICleaner\WindowsPerformanceBoost\WindowsPerformanceBoost\obj\Debug\net6.0-windows\WindowsPerformanceBoost.csproj.AssemblyReference.cache
+D:\Projects\ICleaner\WindowsPerformanceBoost\WindowsPerformanceBoost\obj\Debug\net6.0-windows\WindowsPerformanceBoost.Form1.resources
+D:\Projects\ICleaner\WindowsPerformanceBoost\WindowsPerformanceBoost\obj\Debug\net6.0-windows\WindowsPerformanceBoost.csproj.GenerateResource.cache
+D:\Projects\ICleaner\WindowsPerformanceBoost\WindowsPerformanceBoost\obj\Debug\net6.0-windows\WindowsPerformanceBoost.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ICleaner\WindowsPerformanceBoost\WindowsPerformanceBoost\obj\Debug\net6.0-windows\WindowsPerformanceBoost.AssemblyInfoInputs.cache
+D:\Projects\ICleaner\WindowsPerformanceBoost\WindowsPerformanceBoost\obj\Debug\net6.0-windows\WindowsPerformanceBoost.AssemblyInfo.cs
+D:\Projects\ICleaner\WindowsPerformanceBoost\WindowsPerformanceBoost\obj\Debug\net6.0-windows\WindowsPerformanceBoost.csproj.CoreCompileInputs.cache
+D:\Projects\ICleaner\WindowsPerformanceBoost\WindowsPerformanceBoost\obj\Debug\net6.0-windows\WindowsPerformanceBoost.dll
+D:\Projects\ICleaner\WindowsPerformanceBoost\WindowsPerformanceBoost\obj\Debug\net6.0-windows\refint\WindowsPerformanceBoost.dll
+D:\Projects\ICleaner\WindowsPerformanceBoost\WindowsPerformanceBoost\obj\Debug\net6.0-windows\WindowsPerformanceBoost.pdb
+D:\Projects\ICleaner\WindowsPerformanceBoost\WindowsPerformanceBoost\obj\Debug\net6.0-windows\WindowsPerformanceBoost.genruntimeconfig.cache
+D:\Projects\ICleaner\WindowsPerformanceBoost\WindowsPerformanceBoost\obj\Debug\net6.0-windows\ref\WindowsPerformanceBoost.dll
